@@ -1,7 +1,7 @@
 ***Credit-Card-Payment*** :credit_card: ![Desktop Screenshot 2024 12 05 - 20 38 32 11](https://github.com/user-attachments/assets/756dd74a-a763-4bc3-89cf-478797240a74)
 
 *here is link for my* *Beatiful*:sparkles:  *project* 
-[here!] (https://daniilryabkov.github.io/Credit-Card-Payment-/
+[here!](https://daniilryabkov.github.io/Credit-Card-Payment-/)
 * you can write what you want on the card and put dates
 * also flip the card
 * Take a quick look on the website! :dizzy:
